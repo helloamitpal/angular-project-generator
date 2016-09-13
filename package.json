@@ -1,0 +1,20 @@
+{
+  "name": "setup",
+  "version": "0.0.1",
+  "description": "This is an angularjs boilerplate template generator",
+  "bin": {
+    "apttus-ui-setup": "./setup.js"
+  },
+  "main": "index.js",
+  "author": "Amit Pal",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "clear": "0.0.1",
+    "clui": "^0.3.1",
+    "figlet": "^1.1.2",
+    "inquirer": "^1.1.3",
+    "json-update": "^3.0.0",
+    "shelljs": "^0.7.4"    
+  }
+}
